@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\model\\proc\\p_informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\proc\\p_informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\controllers\\informecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\informecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\controllers\\peleacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\peleacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\aplicaciones\\final\\pelea\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformeController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\InformeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformeController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\InformeController.cs",
+              "RelativeToolTip": "Controllers\\InformeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwEQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:51:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "p_Informe.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\model\\proc\\p_Informe.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Informe.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\model\\proc\\p_Informe.cs",
+              "RelativeToolTip": "model\\proc\\p_Informe.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAMwIQBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:33:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "c_base_datos.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\data\\DAO\\c_base_datos.cs",
               "RelativeDocumentMoniker": "data\\DAO\\c_base_datos.cs",
@@ -47,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PeleaController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\PeleaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PeleaController.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\PeleaController.cs",
               "RelativeToolTip": "Controllers\\PeleaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T19:56:39.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolController.cs",
@@ -68,12 +102,11 @@
               "RelativeToolTip": "Controllers\\RolController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T18:21:28.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T18:21:28.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -85,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\util\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",

@@ -384,12 +384,12 @@ namespace Api_Karate_Pro.model.proc
                     {
                         datos.Add(new CompetidorData
                         {
-                            CompetidorId = row.Field<int>("CompetidorId"),
+                            CompetidorId = row.Field<int?>("CompetidorId") ?? 0, // Si es nulo, asigna 0 como valor predeterminado
                             Competidor = row.Field<string>("Competidor"),
                             Club = row.Field<string>("Club"),
                             Tecnica = row.Field<string>("Tecnica"),
-                            RivalGano = row.Field<int>("RivalGano"),
-                            PeleaId = row.Field<int>("PeleaId")
+                            RivalGano = row.Field<int?>("RivalGano") ?? 0, // Manejo de nulos
+                            PeleaId = row.Field<int?>("PeleaId") ?? 0 // Manejo de nulos
                         });
                     }
 
