@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6A8qlP78SqI=",
+  "dgSpecHash": "u8zhD0vMir4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Metodologia\\Back\\Api_Karate_Pro.csproj",
+  "projectFilePath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\Aplicaciones\\Final\\Pelea\\Api_Karate_Pro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\camil\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",

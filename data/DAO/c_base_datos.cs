@@ -125,7 +125,7 @@ namespace Api_Karate_Pro.data.DAO
             catch (Exception ex)
                 {
                 mensaje = "ERROR: No se pudo generar el reporte" + ex.ToString();
-                valo_resp = "Error de conexión";
+                valo_resp = "Error de conexión" + ex.ToString(); 
             }
             finally
             {
